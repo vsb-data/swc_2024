@@ -3,13 +3,13 @@ layout: default
 title: SWC 2024 - Home
 ---
 
-# Welcome to the Neuronauts at SWC 2024
+# Welcome to the <TEAM_NAME> at SWC 2024
 
 ## Bridging Disciplines at VŠB-TUO
 
 ![SWC 2024 Banner](./SWC.png)
 
-Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our team, Neuronauts, collaborates with other academic teams to innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
+Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and <micro_tem_2> innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
 
 ### About SWC 2024
 
