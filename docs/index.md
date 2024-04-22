@@ -3,13 +3,13 @@ layout: default
 title: SWC 2024 - Home
 ---
 
-# Welcome to the <TEAM_NAME> at SWC 2024
+# Welcome to the /TEAM_NAME/ at SWC 2024
 
 ## Bridging Disciplines at VŠB-TUO
 
 ![SWC 2024 Banner](./SWC.png)
 
-Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and <micro_tem_2> innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
+Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and /micro_tem_2/ innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
 
 ### About SWC 2024
 
@@ -21,7 +21,7 @@ The Scientific Writing Camp 2024, held at VŠB-TUO, is an initiative to encourag
 - **Kateřina Barnová** - Expert in Machine Learning with applications in healthcare and biomedical research. Researcher in sensor technology and its applications in biomedical engineering.
 - **Robert Šamárek** - Data Scientist with expertise in Machine Learning, AI, LLM, data analysis, and visualization.
 
-### Meet the <micro_team_2>
+### Meet the /micro_team_2/
 
 *TBD*
 
