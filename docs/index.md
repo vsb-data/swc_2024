@@ -3,7 +3,9 @@ layout: default
 title: SWC 2024 - Home
 ---
 
-# Welcome to the /TEAM_NAME/ at SWC 2024
+# Welcome to the NEUROSHEEP at SWC 2024
+
+![neurosheep](./neurosheep.png)
 
 ## Bridging Disciplines at VŠB-TUO
 
@@ -21,9 +23,10 @@ The Scientific Writing Camp 2024, held at VŠB-TUO, is an initiative to encourag
 - **Kateřina Barnová** - Expert in Machine Learning with applications in healthcare and biomedical research. Researcher in sensor technology and its applications in biomedical engineering.
 - **Robert Šamárek** - Data Scientist with expertise in Machine Learning, AI, LLM, data analysis, and visualization.
 
-### Meet the /micro_team_2/
+### Meet the 50206
 
-*TBD*
+- **Maidiya Bahate** - Expert in Economics with applications in human bahavior and its impact on stock market.
+- **Xiong Jialei** - Expert in Economics with applications in human bahavior and its impact on stock market.
 
 ### Interdisciplinary Collaboration Goals
 
@@ -40,12 +43,40 @@ We invite faculty members, researchers, and students from VŠB-TUO to join us in
 - LinkedIn: [Connect with us on LinkedIn](https://www.linkedin.com/in/robert-s-2b05a771)
 - GitHub: [Explore our interdisciplinary projects](https://github.com/vsb-data/swc_2024)
 
-<!-- ### Latest News and Updates
+### Latest News and Updates
 
-Stay informed about our preparations for SWC 2024 and follow our discoveries and insights throughout the event:
+#### TODO List
 
-- [Updates on interdisciplinary collaboration](URL_to_updates_on_collaboration)
-- [Highlights from the event and key takeaways](URL_to_event_highlights) -->
+- [x] Define the research question
+- [ ] Conduct a literature review
+- [ ] Create the investor typology questionnaire
+- [ ] Draft a battery of stock investment scenarios
+- [ ] Identify key research methodologies
+- [ ] Prepare a research proposal (presentation for day 2)
+
+#### Potential oponents' questions
+
+- How do you plan to measure the emotional state of the participants?
+- What are the key variables that you will be analyzing in the study?
+- How do you plan to control for external factors that may influence the participants' emotional state?
+- What are the potential limitations of your study, and how do you plan to address them?
+- Who are the key stakeholders that will benefit from the findings of your study?
+- Who is going to pay for the game development? What is the budget for the project? What is the business model?
+
+#### Key Milestones
+
+- **Day 1** - Define the research question and methodology
+- **Day 2** - Prepare a research proposal
+- TBD
+
+#### Unsorted Ideas
+
+- Limited time to make decisions (stress)
+
+#### Research Question
+
+> How does an emotional state feedback loop affect the e-learning process in the financial domain?
+> (particularly in decision-making for stock investment scenarios)
 
 ---
 
