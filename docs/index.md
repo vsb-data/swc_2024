@@ -9,9 +9,7 @@ title: SWC 2024 - Home
 
 ## Bridging Disciplines at VŠB-TUO
 
-![SWC 2024 Banner](./SWC.png)
-
-Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and /micro_tem_2/ innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
+Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and 50206, innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
 
 ### About SWC 2024
 
@@ -54,6 +52,11 @@ We invite faculty members, researchers, and students from VŠB-TUO to join us in
 - [ ] Identify key research methodologies
 - [ ] Prepare a research proposal (presentation for day 2)
 
+#### Research Question
+
+> How does an emotional state feedback loop affect the e-learning process in the financial domain?
+> (particularly in decision-making for stock investment scenarios)
+
 #### Potential oponents' questions
 
 - How do you plan to measure the emotional state of the participants?
@@ -73,11 +76,8 @@ We invite faculty members, researchers, and students from VŠB-TUO to join us in
 
 - Limited time to make decisions (stress)
 
-#### Research Question
-
-> How does an emotional state feedback loop affect the e-learning process in the financial domain?
-> (particularly in decision-making for stock investment scenarios)
-
 ---
 
 Thank you for visiting our page. We look forward to breaking new ground together at SWC 2024 and beyond!
+
+![SWC 2024 Banner](./SWC.png)
