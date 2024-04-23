@@ -46,7 +46,7 @@ We invite faculty members, researchers, and students from VŠB-TUO to join us in
 #### TODO List
 
 - [x] Define the research question
-- [ ] Conduct a literature review
+- [ ] Literature review
 - [ ] Create the investor typology questionnaire
 - [ ] Draft a battery of stock investment scenarios
 - [ ] Identify key research methodologies
@@ -56,6 +56,22 @@ We invite faculty members, researchers, and students from VŠB-TUO to join us in
 
 > How does an emotional state feedback loop affect the e-learning process in the financial domain?
 > (particularly in decision-making for stock investment scenarios)
+
+#### Target Audience
+
+- 18+ individuals interested in stock market investments
+
+#### Sensor Technology
+
+- Smartwatch with heart rate monitor
+
+#### E-Learning Design
+
+- Gamified e-learning platform
+- Primarily mobile app
+- Secondary web app
+- Text-based scenarios with multiple-choice questions
+- Real-time HRV feedback loop
 
 #### Potential oponents' questions
 
