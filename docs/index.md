@@ -43,6 +43,8 @@ The Scientific Writing Camp 2024, held by the [PhD Academy](https://www.vsb.cz/p
 - [ ] Identify key research methodologies
 - [ ] Prepare a research proposal (presentation for day 2)
 
+#### Title: Exploring Emotional Influences on Financial Decision-Making ​
+
 #### Research Question
 
 > How does an emotional state feedback loop affect the e-learning process in the financial domain?
@@ -128,7 +130,7 @@ categories:
 
 1. **Heart Rate Variability (HRV)**: As a measure of the participant's emotional state. HRV data collected from a smartwatch or similar device will be used to infer stress levels and emotional states during decision-making tasks.
 
-2. **Decision-Making Accuracy**: This variable assesses the correctness and precision of decisions made by participants in simulated stock investment scenarios. It can be quantified by comparing the decisions made to optimal decisions based on standard financial theories or successful historical outcomes.
+2. **Decision-Making Accuracy / Consistency with the investor type**: This variable assesses the correctness and precision of decisions made by participants in simulated stock investment scenarios. It can be quantified by comparing the decisions made to optimal decisions based on standard financial theories or successful historical outcomes.
 
 3. **Learning Engagement**: This includes metrics such as session duration, interaction rates with the e-learning platform, and completion rates of tasks or modules. It gauges how actively participants are engaging with the educational content.
 
