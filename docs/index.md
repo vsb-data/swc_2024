@@ -148,12 +148,20 @@ categories:
 
 #### Potential oponents' questions
 
-- How do you plan to measure the emotional state of the participants?
-- What are the key variables that you will be analyzing in the study?
-- How do you plan to control for external factors that may influence the participants' emotional state?
-- What are the potential limitations of your study, and how do you plan to address them?
-- Who are the key stakeholders that will benefit from the findings of your study?
-- Who is going to pay for the game development? What is the budget for the project? What is the business model?
+Q: How do you plan to measure the emotional state of the participants?
+A: We will use heart rate variability (HRV) data collected from smartwatches worn by the participants during the e-learning sessions. HRV is a reliable indicator of stress and emotional states.
+
+Q: How do you plan to control for external factors that may influence the participants' emotional state?
+A: By utilizing self-report measures to assess the participants' emotional state before and after each game.
+
+Q: What are the potential limitations of your study, and how do you plan to address them?
+A: ??
+
+Q: Who are the key stakeholders that will benefit from the findings of your study?
+A: ??
+
+Q: Who is going to pay for the game development? What is the budget for the project? What is the business model?
+A: The study could be funded by a research grant or by our university. The game development could be outsourced to a software development company. The budget for the development of the game could be invested either by the university or by a potential investor. The business model could be based on a subscription model or a freemium model.
 
 #### Key Milestones
 
