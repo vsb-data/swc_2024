@@ -37,9 +37,9 @@ The Scientific Writing Camp 2024, held by the [PhD Academy](https://www.vsb.cz/p
 #### TODO List
 
 - [x] Define the research question
-- [ ] Literature review
+- [x] Literature review
 - [ ] Draft the investor typology questionnaire
-- [ ] Draft a battery of stock investment scenarios
+- [x] Draft a battery of stock investment scenarios
 - [ ] Identify key research methodologies
 - [ ] Prepare a research proposal (presentation for day 2)
 
@@ -59,6 +59,12 @@ TBD
 - **Sensors and Wearables**: Collecting real-time emotional feedback data through HRV sensors (smartwatches).
 - **Data Science and Machine Learning**: Data processing and analysis to infer emotional states from HRV data and their impact on decision-making.
 
+#### Motivation/Urgency
+
+- **to address the emotional aspect of decision-making, which is often overlooked in traditional financial education**
+- to educate and increase financial literacy and decision-making skills in the general population
+- to gather consensed data on correlations between emotional states and decision-making in various financial scenarios among different investor typologies for future research
+
 #### The Goal
 
 - to design (not to develop) a gamified e-learning platform that integrates real-time emotional feedback
@@ -66,13 +72,6 @@ TBD
 - To investigate the impact of real-time emotional state feedback on the e-learning process in the financial domain.
 - To understand how emotional state feedback affects decision-making in stock investment scenarios.
 - To identify the key variables that influence the learning process in the financial domain.
-
-#### Motivation/Urgency
-
-- to educate and increase financial literacy and decision-making skills in the general population
-- to address the emotional aspect of decision-making, which is often overlooked in traditional financial education
-- to provide personalized learning experiences based on real-time emotional feedback to improve learning outcomes
-- to gather consensed data on correlations between emotional states and decision-making in various financial scenarios among different investor typologies for future research
 
 #### Target Audience
 
@@ -108,6 +107,15 @@ nice to have:
 - translating scenarios to different languages using LLMs
 - comparison of learning curves between samples with and without HRV feedback
 
+#### Journal
+
+categories:
+
+- Psychology
+- Behavioral Economics
+- Education
+- ...
+
 #### Takeaways
 
 - multinational cooperation
@@ -130,8 +138,9 @@ nice to have:
 #### Architecture
 
 - **Frontend**: Mobile app (React Native), also aviailable as a web app (React) - but without HRV feedback
-- **Backend**: Web app (FastAPI)
-- **Database**: PostgreSQL
+- **Backend**: Web app (FastAPI or Flask)
+- **Hosting**: Amazon Web Services (AWS)
+- **Database**: PostgreSQL or MongoDB
 - **Machine Learning**: Python (scikit-learn, Prophet)
 - **LLM**: OpenAI (via API)
 
@@ -162,6 +171,6 @@ nice to have:
 
 ---
 
-Thank you for visiting our page. We look forward to breaking new ground together at SWC 2024 and beyond!
-
 ![SWC 2024 Banner](./SWC.png)
+
+Thank you for visiting our page. We look forward to breaking new ground together at SWC 2024 and beyond!
