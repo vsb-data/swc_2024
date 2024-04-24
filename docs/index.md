@@ -96,6 +96,7 @@ TBD
 
 - distinguish between different investor typologies (risk-averse, risk-neutral, risk-seeking) using a questionnaire
 - battery of stock investment scenarios, multiple-choice 4-option questions, one incorrect for all types of investors
+- during each scenario, participants will be monitored for HRV data to infer their emotional state using their smartwatch
 - after each scenario, participants receive the correct answer for their investor type and, if incorrect, why the answer is not ideal for their type
 - participants will also receive information on how their emotions may have influenced their decision-making and how to work with this knowledge in the future
 - participants will be asked to rate their emotional state before and after each scenario
