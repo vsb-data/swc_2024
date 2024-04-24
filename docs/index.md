@@ -63,15 +63,17 @@ TBD
 
 - **to address the emotional aspect of decision-making, which is often overlooked in traditional financial education**
 - to educate and increase financial literacy and decision-making skills in the general population
-- to gather consensed data on correlations between emotional states and decision-making in various financial scenarios among different investor typologies for future research
 
 #### The Goal
 
-- to design (not to develop) a gamified e-learning platform that integrates real-time emotional feedback
-- to enhance financial decision-making skills by integrating real-time emotional feedback (leveraging Heart Rate Variability data) to tailor learning experiences and improve outcomes in financial education.
-- To investigate the impact of real-time emotional state feedback on the e-learning process in the financial domain.
-- To understand how emotional state feedback affects decision-making in stock investment scenarios.
-- To identify the key variables that influence the learning process in the financial domain.
+- **to prototype a gamified e-learning platform with various stock investment scenarios and do a pilot study on two groups of participants (with and without real-time emotional feedback) to assess the impact of emotional feedback on decision-making and learning outcomes**
+- to understand how emotional state feedback affects decision-making in stock investment scenarios
+- to identify the key variables that influence the learning process in the financial domain
+- to gather consensed data on correlations between emotional states and decision-making in various financial scenarios among different investor typologies for future research
+
+#### Next steps
+
+- to design a gamified e-learning platform that integrates real-time emotional feedback
 
 #### Target Audience
 
