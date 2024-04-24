@@ -3,17 +3,17 @@ layout: default
 title: SWC 2024 - Home
 ---
 
-# Welcome to the NEUROSHEEP at SWC 2024
+# Welcome to the NEUROSHEEP at Scientific Writing Camp 2024
 
 ![neurosheep](./neurosheep.png)
 
 ## Bridging Disciplines at VŠB-TUO
 
-Join us at the Scientific Writing Camp (SWC) 2024 hosted by VŠB - Technical University of Ostrava, where our teams, Neuronauts and 50206, innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
+Join us at the Scientific Writing Camp (SWC) 2024 hosted by [VŠB - Technical University of Ostrava](https://www.vsb.cz/en/), where our team innovate across disciplines. Our goal is to identify knowledge gaps and foster interdisciplinary research that spans multiple faculties.
 
 ### About SWC 2024
 
-The Scientific Writing Camp 2024, held at VŠB-TUO, is an initiative to encourage collaboration among diverse academic disciplines. This event focuses on identifying key areas where interdisciplinary research can address complex challenges facing society today.
+The Scientific Writing Camp 2024, held by the [PhD Academy](https://www.vsb.cz/phdakademie/en) at VŠB-TUO, is an initiative to encourage collaboration among diverse academic disciplines. This event focuses on identifying key areas where interdisciplinary research can address complex challenges facing society today.
 
 ### Meet the Neuronauts
 
@@ -32,22 +32,13 @@ The Scientific Writing Camp 2024, held at VŠB-TUO, is an initiative to encourag
 - **To Foster Collaboration** - By bringing together experts from different faculties, we seek to create synergies that lead to innovative solutions.
 - **To Publish Interdisciplinary Research** - Our objective is to produce high-impact research papers that reflect our combined expertise NLT September 2025.
 
-### Join Us at SWC 2024
-
-We invite faculty members, researchers, and students from VŠB-TUO to join us in the SWC 2024. Whether you are interested in sharing innovative ideas or looking for research partners, we welcome your participation.
-
-#### Connect With Us
-
-- LinkedIn: [Connect with us on LinkedIn](https://www.linkedin.com/in/robert-s-2b05a771)
-- GitHub: [Explore our interdisciplinary projects](https://github.com/vsb-data/swc_2024)
-
 ### Latest News and Updates
 
 #### TODO List
 
 - [x] Define the research question
 - [ ] Literature review
-- [ ] Create the investor typology questionnaire
+- [ ] Draft the investor typology questionnaire
 - [ ] Draft a battery of stock investment scenarios
 - [ ] Identify key research methodologies
 - [ ] Prepare a research proposal (presentation for day 2)
@@ -163,6 +154,11 @@ nice to have:
 
 - Limited time to make decisions (stress)
 - other stressors (TBD)
+
+#### Connect With Us
+
+- LinkedIn: [Connect with us on LinkedIn](https://www.linkedin.com/in/robert-s-2b05a771)
+- GitHub: [Explore our interdisciplinary projects](https://github.com/vsb-data/swc_2024)
 
 ---
 
